@@ -1,0 +1,29 @@
+# Ignorar diretórios de cache e dependências
+.nvm/
+financeiro_backend/venv/
+financeiro_frontend/node_modules/
+.cache/
+
+# Ignorar arquivos de log e temporários
+*.log
+*.tmp
+
+# Ignorar arquivos de configuração local
+.env
+.env.local
+
+# Ignorar arquivos de build
+financeiro_frontend/dist/
+
+# Ignorar arquivos específicos do sistema
+.DS_Store
+thumbs.db
+
+# Ignorar arquivos de banco de dados
+*.db
+*.sqlite
+
+# Ignorar histórico do shell
+.bash_history
+
+
