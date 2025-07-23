@@ -7,8 +7,8 @@ Este é um aplicativo web completo para controle financeiro pessoal, desenvolvid
 ## Funcionalidades Principais
 
 ### 🔐 Sistema de Login
-- Usuário: `admin`
-- Senha: `142066`
+- Usuário:
+- Senha:
 - Controle de acesso seguro
 
 ### 💰 Gestão de Contas
